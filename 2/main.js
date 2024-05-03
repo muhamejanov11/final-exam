@@ -1,0 +1,1 @@
+alert(Math.ceil(Math.random() * 10))
